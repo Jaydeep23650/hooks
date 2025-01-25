@@ -1,0 +1,38 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.box{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 100px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.buttons{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    width: 400px;
+    height: 80px;
+    border-radius: 10px;
+    outline: none;
+    cursor: pointer; 
+    font-size: 25px;
+    color: black ;
+    font-style: bold;
+    
+
+}
