@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hooks/static/css/main.b28fe528.css",
+    "main.js": "/hooks/static/js/main.883f3191.js",
+    "static/js/488.4a1e0b2a.chunk.js": "/hooks/static/js/488.4a1e0b2a.chunk.js",
+    "static/media/download1.jpg": "/hooks/static/media/download1.474190e1b5507e146ba3.jpg",
+    "static/media/download5.jpg": "/hooks/static/media/download5.7fe8acdf334f76fe130b.jpg",
+    "static/media/download2.jpg": "/hooks/static/media/download2.c7c1599f51e427918bf4.jpg",
+    "static/media/download6.jpg": "/hooks/static/media/download6.c29690e0ce1450b5fe68.jpg",
+    "static/media/download4.jpg": "/hooks/static/media/download4.d56175dfd43646353415.jpg",
+    "static/media/download3.jpeg": "/hooks/static/media/download3.27a8a71c015e5fe4e8b5.jpeg",
+    "index.html": "/hooks/index.html",
+    "main.b28fe528.css.map": "/hooks/static/css/main.b28fe528.css.map",
+    "main.883f3191.js.map": "/hooks/static/js/main.883f3191.js.map",
+    "488.4a1e0b2a.chunk.js.map": "/hooks/static/js/488.4a1e0b2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b28fe528.css",
+    "static/js/main.883f3191.js"
+  ]
+}
